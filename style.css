@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background: #1f1f1f;
+  color: #fff;
+  text-align: center;
+  padding: 2rem;
+}
+
+section {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+h2 {
+  color: #1f1f1f;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 0.5rem;
+}
+
+ul {
+  list-style: disc;
+  padding-left: 2rem;
+}
+
+.projeto, .certificado {
+  background: #fff;
+  padding: 1rem;
+  margin-top: 1rem;
+  border-left: 5px solid #0077cc;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #ddd;
+}
